@@ -1,6 +1,6 @@
 # 🍝 Pasta Cremosa en 1 Sola Olla (One-Pot Pasta)
 
-![Pasta cremosa](assets/pasta.jpg)
+![Pasta cremosa](../assets/pasta.jpg)
 
 > *Olvídate de escurrir el agua o ensuciar múltiples sartenes. La pasta se cocina directamente en su propia salsa, absorbiendo todo el sabor y creando una textura cremosa incomparable.*
 
