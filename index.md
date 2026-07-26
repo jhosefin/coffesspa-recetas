@@ -30,4 +30,4 @@
 ### 👋 Sobre este blog
 ¡Hola! En este espacio comparto recetas reales para la vida real. Sin ingredientes imposibles de conseguir ni pasos kilométricos. 
 
-💬 **¿Tienes dudas sobre una receta?** Escríbeme o déjame una sugerencia en [@coffeesspa](#) o [hola@coffeesspa.com](#).
+💬 **¿Tienes dudas sobre una receta?** Escríbeme o déjame una sugerencia en [@coffeesspa](https://www.instagram.com/coffeesspa/) o [hola@coffeesspa.cl](#).
