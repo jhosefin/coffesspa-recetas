@@ -1,0 +1,26 @@
+/* ========================================
+   VARIABLES GLOBALES
+======================================== */
+
+:root{
+
+    --color-principal:#FF6B35;
+    --color-principal-hover:#E85A2A;
+
+    --color-secundario:#FFA94D;
+
+    --color-texto:#333333;
+
+    --color-texto-claro:#666666;
+
+    --color-fondo:#F8F9FA;
+
+    --color-blanco:#FFFFFF;
+
+    --sombra:0 5px 15px rgba(0,0,0,.08);
+
+    --radio:10px;
+
+    --transicion:.3s;
+
+}

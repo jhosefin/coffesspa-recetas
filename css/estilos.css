@@ -1,0 +1,181 @@
+/* Reinicio básico */
+
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+
+body{
+
+    font-family: 'Poppins', sans-serif;
+    background:#f8f8f8;
+    color:#333;
+
+}
+
+/* ===========================
+   HEADER
+=========================== */
+
+header{
+
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+
+    padding:20px 8%;
+
+    background:white;
+
+    box-shadow:0 2px 10px rgba(0,0,0,.08);
+
+}
+
+.logo{
+
+    display:flex;
+    align-items:center;
+    gap:10px;
+
+}
+
+.logo i{
+
+    font-size:30px;
+    color:#ff6b35;
+
+}
+
+.logo h2{
+
+    color:#333;
+
+}
+
+nav ul{
+
+    display:flex;
+    list-style:none;
+    gap:30px;
+
+}
+
+nav a{
+
+    text-decoration:none;
+    color:#333;
+    font-weight:bold;
+    transition:.3s;
+
+}
+
+nav a:hover{
+
+    color:#ff6b35;
+
+}
+/* ========================================
+   HERO
+======================================== */
+
+.hero{
+
+    padding:80px 8%;
+    background:#f8f8f8;
+
+}
+
+.hero-contenido{
+
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+    gap:60px;
+
+}
+
+.hero-texto{
+
+    flex:1;
+
+}
+
+.hero-texto h1{
+
+    font-size:52px;
+    margin-bottom:20px;
+    color:#333;
+
+}
+
+.hero-texto p{
+
+    font-size:20px;
+    line-height:1.8;
+    color:#666;
+    margin-bottom:35px;
+
+}
+
+.hero-imagen{
+
+    flex:1;
+    text-align:center;
+
+}
+
+.hero-imagen img{
+
+    width:100%;
+    max-width:500px;
+
+}
+/* ========================================
+   BOTONES
+======================================== */
+
+.hero-botones{
+
+    display:flex;
+    gap:20px;
+
+}
+
+.btn{
+
+    display:inline-block;
+    padding:15px 30px;
+    border-radius:8px;
+    text-decoration:none;
+    font-weight:bold;
+    transition:.3s;
+
+}
+
+.btn-principal{
+
+    background:#ff6b35;
+    color:white;
+
+}
+
+.btn-principal:hover{
+
+    background:#e75b28;
+
+}
+
+.btn-secundario{
+
+    border:2px solid #ff6b35;
+    color:#ff6b35;
+
+}
+
+.btn-secundario:hover{
+
+    background:#ff6b35;
+    color:white;
+
+}
