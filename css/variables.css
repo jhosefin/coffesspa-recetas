@@ -24,3 +24,14 @@
     --transicion:.3s;
 
 }
+/* ========================================
+   CONTENEDOR
+======================================== */
+
+:root{
+
+    /* Variables existentes... */
+
+    --container-width:1200px;
+
+}
