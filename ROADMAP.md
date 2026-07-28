@@ -16,3 +16,27 @@ Versión 3.0
 ⬜ Base de datos
 ⬜ Login
 ⬜ Favoritos
+
+Cooking Food
+
+Versión 0.3
+
+✅ GitHub
+
+✅ Header
+
+✅ Hero
+
+✅ Recipe Cards
+
+🔄 Video Cards
+
+⬜ Tips
+
+⬜ Footer
+
+⬜ Responsive
+
+⬜ SEO
+
+⬜ Publicación

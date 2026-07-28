@@ -35,3 +35,43 @@
     --container-width:1200px;
 
 }
+:root{
+
+    /* ==========================
+       COLORES
+    ========================== */
+
+    --color-principal:#FF6B35;
+    --color-secundario:#FFA94D;
+    --color-fondo:#F8F9FA;
+    --color-texto:#333333;
+    --color-texto-claro:#666666;
+
+    /* ==========================
+       ESPACIADOS
+    ========================== */
+
+    --spacing-xs:10px;
+    --spacing-sm:20px;
+    --spacing-md:30px;
+    --spacing-lg:40px;
+    --spacing-xl:60px;
+
+    /* ==========================
+       BORDES
+    ========================== */
+
+    --radio:10px;
+
+    /* ==========================
+       SOMBRAS
+    ========================== */
+
+    --sombra:0 8px 20px rgba(0,0,0,.08);
+
+    /* ==========================
+       TRANSICIONES
+    ========================== */
+
+    --transicion:.3s ease;
+}
